@@ -18,7 +18,8 @@ This is a Guide on how to setup the Challenge on an Emulator.
 
 ## Preparations ##
 To get this to work you need the following thing already set up:
-* Super Mario Sunshine (US Version) playable on the Dolphin Emulator (I can't tell you where to get the ROM)
+* Super Mario Sunshine (US Version) --> I can't tell you where to get that
+* The Dolphin Emulator setup to play the Game: https://dolphin-emu.org/
 
 ## Adding the Code ##
 After having the game and emulator set up, right click on the game, follow these steps:
