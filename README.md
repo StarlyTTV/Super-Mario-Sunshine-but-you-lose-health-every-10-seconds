@@ -45,12 +45,14 @@ This is how I was inspired to try out this Challenge.
 I saw a Video of a type of this Challenge in Super Mario 64 by Simply:
 
 <a href="https://www.youtube.com/watch?v=saQJELvPf4M"><img src="Images/Simply Thumbnail.jpg" width="500" height="281.25"></a>
+<br>Mod Creator: https://www.youtube.com/@KazeN64
 
 Because something like this hasn't been done before in Super Mario Sunshine I wanted to try something similar in that game. I think that a lot of Challenges differ very much depending on the game they are played in, so I thought it would be interesting.
 
 ## How I got the Gecko Code ##
 While trying to find a Gecko Code (Basically a Cheat Code) or Mod for this Challenge I found the following: <br>
-https://gamebanana.com/mods/14812 --> **Credit: Muzzarino**
+https://gamebanana.com/mods/14812 <br>
+Credit: Muzzarino
 
 The problem with this Code was, that it always gets you into a Game Over once you die. I tried to edit the Code and found out, that when you only use the first line of the Gecko Code, what I wanted still works but without getting you a Game Over each time you die.
 
