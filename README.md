@@ -10,7 +10,7 @@
 <br>
 
 # How To Setup # 
-This is a Guide on how to setup the Challenge on an Emulator.
+This is a Guide on how to setup the Challenge on an Emulator on Windows.
 
   - Notes:
     - The Code doesn't work on water surface
