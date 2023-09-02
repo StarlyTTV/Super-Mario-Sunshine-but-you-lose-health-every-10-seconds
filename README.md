@@ -1,4 +1,4 @@
-# Super Mario Sunshine but you're losing health every 10 seconds #
+# Super Mario Sunshine but you lose health every 10 seconds #
 - [How To Setup](#How-To-Setup)
   - [Preparations](#Preparations)
   - [Adding the Code](#Adding-the-Code)
