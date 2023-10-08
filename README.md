@@ -28,14 +28,14 @@ After having the game and emulator set up, right click on the game, follow these
 <img src="Images/Properties.png" width="700" height="140">
 
 2. Click on "Gecko Codes": <br>
-<img src="Images/Gecko Codes.png" width="420" height="60">
+<img src="Images/Gecko_Codes.png" width="420" height="60">
 
 3. Click on "Add New Code": <br>
-<img src="Images/Add New Code.png" width="310" height="410">
+<img src="Images/Add_New_Code.png" width="310" height="410">
 
 4. Add the following Code: <br>
 0424EE58 38000000 <br>
-<img src="Images/Adding Code.png" width="250" height="390">
+<img src="Images/Adding_Code.png" width="250" height="390">
 
 <br>
 
@@ -45,7 +45,7 @@ This is how I was inspired to try out this Challenge.
 ## Video Inspirations ##
 I saw a Video of a type of this Challenge in Super Mario 64 by Simply:
 
-<a href="https://www.youtube.com/watch?v=saQJELvPf4M"><img src="Images/Simply Thumbnail.jpg" width="500" height="281.25"></a>
+<a href="https://www.youtube.com/watch?v=saQJELvPf4M"><img src="Images/Simply_Thumbnail.jpg" width="500" height="281.25"></a>
 <br>Mod Creator: https://www.youtube.com/@KazeN64
 
 Because something like this hasn't been done before in Super Mario Sunshine I wanted to try something similar in that game. I think that a lot of Challenges differ very much, depending on the game they are played in, so I thought it would be interesting.
@@ -60,4 +60,4 @@ The problem with this Code was, that it always gets you into a Game Over once yo
 <br>
 
 # My Main Video of the Challenge #
-<a href="https://www.youtube.com/watch?v=QkO5aLD4ASk"><img src="Images/Video Thumbnail.png" width="500" height="281.25"></a>
+<a href="https://www.youtube.com/watch?v=QkO5aLD4ASk"><img src="Images/Video_Thumbnail.png" width="500" height="281.25"></a>
